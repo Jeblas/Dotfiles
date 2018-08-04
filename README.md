@@ -1,5 +1,5 @@
 # Installation
-### Download and change folder
+### Setup
 ```
 cd ~
 git clone https://github.com/Jeblas/Dotfiles.git
@@ -10,14 +10,14 @@ cd Dotfiles
 ./install_dep.sh
 ./install.sh
 ```
-### Dotfiles for
+# Dotfiles for
 - i3
 - zsh
 - nvim
 - tmux
 - termite
 
-### Other
+# Other
 - Fonts
     - Hack (Powerline)
 - Colors
