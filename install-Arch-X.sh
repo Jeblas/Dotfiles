@@ -1,6 +1,13 @@
 #!/bin/bash -e
 pacman -Sy
 pacman -S curl zsh zsh-completions i3 neovim tmux termite htop tree redshift udiskie
+# rofi or dmenu
+# Ncmpcpp + Spotify
+# flux instead of redshift?
+# polybar or i3bar+i3blocks
+# i3Lock with blur
+# vlc or mpv
+# feh
 
 # oh-my-zsh attempts to change shell
 echo $SHELL
