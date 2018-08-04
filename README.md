@@ -18,7 +18,9 @@ cd Dotfiles
 - termite
 
 # Todo
-[ ] add download oh-my-zsh script
+[ ] add download oh-my-zsh to script
+[ ] wayland install script
+[ ] gentoo install script 
 
 # Other
 - Fonts
