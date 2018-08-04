@@ -17,6 +17,9 @@ cd Dotfiles
 - tmux
 - termite
 
+# Todo
+[ ] add download oh-my-zsh script
+
 # Other
 - Fonts
     - Hack (Powerline)
